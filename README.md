@@ -1,0 +1,2 @@
+# JavaScriptCourse
+Self learning JavaScript
